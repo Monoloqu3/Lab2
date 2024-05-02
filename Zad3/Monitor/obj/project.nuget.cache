@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "MMhSogx3D2kNqj63f+lW4WwAfMcpx0nUb9tishG+bgYsc1e7AE/eBmCP25hnYSW6DcD5mfuhzGSoR+QnEI5NpA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jarek\\source\\repos\\AplikacjaOkienkowa\\Zad3\\Monitor\\Monitor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jarek\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Jarek\\.nuget\\packages\\system.configuration.configurationmanager\\8.0.0\\system.configuration.configurationmanager.8.0.0.nupkg.sha512",
+    "C:\\Users\\Jarek\\.nuget\\packages\\system.diagnostics.eventlog\\8.0.0\\system.diagnostics.eventlog.8.0.0.nupkg.sha512",
+    "C:\\Users\\Jarek\\.nuget\\packages\\system.diagnostics.performancecounter\\8.0.0\\system.diagnostics.performancecounter.8.0.0.nupkg.sha512",
+    "C:\\Users\\Jarek\\.nuget\\packages\\system.security.cryptography.protecteddata\\8.0.0\\system.security.cryptography.protecteddata.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
